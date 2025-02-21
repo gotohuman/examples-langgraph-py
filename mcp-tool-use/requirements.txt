@@ -1,0 +1,5 @@
+gotohuman==0.1.6
+langgraph==0.2.74
+langchain-openai==0.3.6
+langchain-mcp-adapters==0.0.2
+langchain-community==0.3.18
